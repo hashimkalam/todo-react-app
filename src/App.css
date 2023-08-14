@@ -1,0 +1,23 @@
+.app{
+  background-color: red;
+}
+.app__container {
+  text-align: center;
+}
+
+.app__container h1 {
+  font-size: 2.5rem; 
+  color: #333; 
+  font-weight: 600;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);  
+  letter-spacing: 1.5px;
+}
+
+
+ul {
+  width: 80%;
+  padding: 10px 0;
+  background-color: #adadad;
+  margin: 10px auto; /* Center the element horizontally  */
+  align-items: center; /* Center items horizontally within the flex container  */
+}   
